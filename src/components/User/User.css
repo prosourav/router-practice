@@ -1,0 +1,10 @@
+.mydiv{
+    float: left;
+    border: 1px solid blue;
+    height: 350px;
+    width: 350px;
+    margin: 20px 52px; 
+    padding: 20px;
+    text-align: center;
+
+}
